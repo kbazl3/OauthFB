@@ -1,0 +1,19 @@
+{
+  "name": "facebookview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0"
+  }
+}
